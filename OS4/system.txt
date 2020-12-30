@@ -1,0 +1,11 @@
+9 536870912 5 4
+Wed Dec 30 2020 15:06:37 0 /home NaN 27 1 3 1 2 3
+Wed Dec 30 2020 15:37:57 1 /home/folder1 /home 9 1 6 4 5 6 7 8 9
+Wed Dec 30 2020 15:37:58 2 /home/folder2 /home 0 1 0
+Wed Dec 30 2020 15:37:58 3 /home/file1.txt /home 18 2 axaxaxaxaxxaxxxaxa
+Wed Dec 30 2020 15:38:15 4 /home/folder1/folder3 /home/folder1 0 1 0
+Wed Dec 30 2020 15:38:15 5 /home/folder1/folder4 /home/folder1 0 1 0
+Wed Dec 30 2020 15:38:16 6 /home/folder1/folder5 /home/folder1 0 1 0
+Wed Dec 30 2020 15:38:17 7 /home/folder1/file2.txt /home/folder1 1 2 q
+Wed Dec 30 2020 15:38:18 8 /home/folder1/file3.txt /home/folder1 3 2 qwe
+Wed Dec 30 2020 15:38:18 9 /home/folder1/file4.txt /home/folder1 5 2 qwert
